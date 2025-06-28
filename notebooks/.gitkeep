@@ -1,5 +1,1 @@
-git clone https://github.com/NINGTANG1124/UPF-HFI.git
-cd UPF-HFI
-git rm notebooks/.gitkeep
-git commit -m "Remove .gitkeep from notebooks directory"
-git push
+
