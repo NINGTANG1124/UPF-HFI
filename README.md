@@ -1,4 +1,4 @@
-# UPF-HFI: Household Food Insecurity and Ultra-Processed Food Exposure
+# UPF-HFI: Household Food Insecurity and Ultra-Processed Food
  
 The project investigates the association between **Household Food Insecurity (HFI)** and children’s exposure to **Ultra-Processed Foods (UPF)** in the Born in Bradford (BiB) cohort.
 
